@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+#selection {
+    position: fixed;
+    bottom: 0%;
+    font-size: 18PX;
+}
+
+#c, #c1, #e, #e1, #g, #g1, #i #i1 {
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+input {
+    position: fixed;
+    bottom: 0%;
+    right: 60%;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+dl {
+    text-align: center;
+    visibility: hidden;
+
+}
+
+dt {
+    text-align: center;
+    font-size: 20px;
+}
