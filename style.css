@@ -1,37 +1,46 @@
-body {
-    background-color: aqua;
+h1, h2{
+    text-align: center;
+    font-style: italic;
 }
+
+ dl {
+  position: absolute;
+  left: 225px;
+ }
+
+#a {
+  text-align: center;
+ }
 
 #selection {
-    position: fixed;
-    bottom: 0%;
-    font-size: 18PX;
+    position: absolute;
+    right: 40.25%;
 }
 
-#c, #c1, #e, #e1, #g, #g1, #i #i1 {
-    color: white;
-    float: left;
+img {
+    width: 400px;
+    height: 600px;
+    margin-right: 50px;
+    position: absolute;
+    top: 300px;
+    left: 1475px;
+  }
+  
+  p {
     text-align: center;
-}
-
-input {
-    position: fixed;
-    bottom: 0%;
-    right: 60%;
-}
-
-
-h1 {
-    text-align: center;
-}
-
-dl {
-    text-align: center;
-    visibility: hidden;
-
-}
-
-dt {
-    text-align: center;
-    font-size: 20px;
-}
+    font-size: 24px;
+  }
+  
+  iframe {
+    height: 450px;
+    width: 700px;
+    position: absolute;
+    top: 365px;
+    right: 605px;
+    border: 1px;
+    
+  }
+  
+  body {
+    background-color: #5ced73
+  }
