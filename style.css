@@ -1,0 +1,58 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+#a{
+  color: white;
+  text-align: center;
+}
+
+#selection {
+  position: absolute;
+  left: 35vw;
+}
+
+p {
+  color: white;
+}
+
+dl {
+  color: white;
+  position: relative;
+  float: left;
+  left: 10%;
+}
+
+img {
+  width: 25vw;
+  height: 40vw;
+  position: relative;
+  left: 63vw;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+}
+
+iframe {
+  height: 20vw;
+  width: 35vw;
+  position: relative;
+  left: -3vw;
+  bottom: 12vw;
+
+
+}
+
+body {
+  background-color: #593876
+}
